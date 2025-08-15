@@ -16,9 +16,8 @@ Full Stack Developer
     ```
 
 2. **APIApplication:**
-    - Open Visual Basic Studio 
+    - Open Microsoft Visual  Studio 
     - Cofig connection string
-
     ```
       "ConnectionStrings": {
         "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=NotesDb;Trusted_Connection=True;TrustServerCertificate=true"
