@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET9\\APIApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\note.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\note.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\data\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\data\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\services\\interfaces\\itracktimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\services\\interfaces\\itracktimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\respone\\userrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\respone\\userrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\respone\\noterespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\respone\\noterespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\respone\\refreshtokenrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\respone\\refreshtokenrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\respone\\tokenrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\respone\\tokenrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\apiapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\apiapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\policy\\dynamicrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\policy\\dynamicrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\policy\\dynamicrolerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\policy\\dynamicrolerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\migrations\\notedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\migrations\\notedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\migrations\\20250810114857_createroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\migrations\\20250810114857_createroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\apiapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\apiapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\request\\noterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\request\\noterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|d:\\dotnet9\\apiapplication\\apiapplication\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BAE3DF-28FE-488C-B533-F925294D4EA2}|APIApplication\\APIApplication.csproj|solutionrelative:apiapplication\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITrackTimestamps.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\ITrackTimestamps.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Services\\Interfaces\\ITrackTimestamps.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\ITrackTimestamps.cs",
+              "RelativeToolTip": "APIApplication\\Services\\Interfaces\\ITrackTimestamps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:57:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Services\\NoteService.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\NoteService.cs",
+              "RelativeToolTip": "APIApplication\\Services\\NoteService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:26:27.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\INoteService.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Services\\Interfaces\\INoteService.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\INoteService.cs",
+              "RelativeToolTip": "APIApplication\\Services\\Interfaces\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:09:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRespone.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\UserRespone.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Respone\\UserRespone.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\UserRespone.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Respone\\UserRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "APIApplication\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:15:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRespone.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\TokenRespone.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Respone\\TokenRespone.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\TokenRespone.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Respone\\TokenRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokenRespone.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\RefreshTokenRespone.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Respone\\RefreshTokenRespone.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\RefreshTokenRespone.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Respone\\RefreshTokenRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:07.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDbContext.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Data\\NoteDbContext.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Data\\NoteDbContext.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Data\\NoteDbContext.cs",
+              "RelativeToolTip": "APIApplication\\Data\\NoteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:27:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Controllers\\NoteController.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "APIApplication\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:23:00.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.http",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Note.http",
+              "RelativeDocumentMoniker": "APIApplication\\Note.http",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Note.http",
+              "RelativeToolTip": "APIApplication\\Note.http",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-09T15:03:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Services\\AuthService.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Services\\AuthService.cs",
+              "RelativeToolTip": "APIApplication\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Entities\\User.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\User.cs",
+              "RelativeToolTip": "APIApplication\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:08:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Entities\\Role.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\Role.cs",
+              "RelativeToolTip": "APIApplication\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:46:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteRespone.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\NoteRespone.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Respone\\NoteRespone.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Respone\\NoteRespone.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Respone\\NoteRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Middleware\\MyCustomMiddleware.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "APIApplication\\Middleware\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:28:03.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Program.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Program.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Program.cs",
+              "RelativeToolTip": "APIApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:29:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APIApplication.http",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\APIApplication.http",
+              "RelativeDocumentMoniker": "APIApplication\\APIApplication.http",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\APIApplication.http",
+              "RelativeToolTip": "APIApplication\\APIApplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-09T14:42:41.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Entities\\Note.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\Note.cs",
+              "RelativeToolTip": "APIApplication\\Entities\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:34:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APIApplication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:22:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DynamicRoleHandler.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Policy\\DynamicRoleHandler.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Policy\\DynamicRoleHandler.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Policy\\DynamicRoleHandler.cs",
+              "RelativeToolTip": "APIApplication\\Policy\\DynamicRoleHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:41:57.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIApplication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:37:11.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DynamicRoleRequirement.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Policy\\DynamicRoleRequirement.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Policy\\DynamicRoleRequirement.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Policy\\DynamicRoleRequirement.cs",
+              "RelativeToolTip": "APIApplication\\Policy\\DynamicRoleRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:42:19.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NoteDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Migrations\\NoteDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Migrations\\NoteDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Migrations\\NoteDbContextModelSnapshot.cs",
+              "RelativeToolTip": "APIApplication\\Migrations\\NoteDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:29:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Entities\\RolePermission.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "APIApplication\\Entities\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:46:27.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250810114857_CreateRoleTable.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Migrations\\20250810114857_CreateRoleTable.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Migrations\\20250810114857_CreateRoleTable.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Migrations\\20250810114857_CreateRoleTable.cs",
+              "RelativeToolTip": "APIApplication\\Migrations\\20250810114857_CreateRoleTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:48:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "APIApplication\\appsettings.json",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\appsettings.json",
+              "RelativeToolTip": "APIApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T09:29:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\appsettings.Development.json",
+              "RelativeToolTip": "APIApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T07:49:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "APIApplication.csproj",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\APIApplication.csproj",
+              "RelativeDocumentMoniker": "APIApplication\\APIApplication.csproj",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\APIApplication.csproj",
+              "RelativeToolTip": "APIApplication\\APIApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T15:02:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NoteRequest.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Request\\NoteRequest.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Request\\NoteRequest.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Request\\NoteRequest.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Request\\NoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:06:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "APIApplication\\Models\\Request\\LoginRequest.cs",
+              "ToolTip": "D:\\DOTNET9\\APIApplication\\APIApplication\\Models\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "APIApplication\\Models\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:28:29.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
